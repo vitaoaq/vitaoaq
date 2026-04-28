@@ -32,6 +32,7 @@
 
 * HackerRank SQL Certificate
 * Google Data Analytics (Coursera)
+* Google Cloud Compute Foundations
 
 ---
 
