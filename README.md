@@ -1,23 +1,20 @@
 <div align="center">
 
-<!-- Banner principal -->
+<h1>Victor Cesar de Morais Queiroz</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&animation=fadeIn" />
+<p>
+  <strong>Estudante em transição para Engenharia de Dados</strong><br/>
+  Python · SQL · Google Cloud
+</p>
 
-<!-- Título com typewriter feel -->
-
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Victor+Cesar+de+Morais+Queiroz;Transição+→+Engenharia+de+Dados;Python+%7C+SQL+%7C+Google+Cloud" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=victorcesarmq&color=58A6FF&style=flat-square&label=Visitas+ao+perfil" />
-  &nbsp;
+<p>
   <a href="https://linkedin.com/in/victorcesarmq">
     <img src="https://img.shields.io/badge/LinkedIn-victorcesarmq-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Localização-Cuiabá%2C%20MT-gray?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Localização-Cuiabá%2C%20MT-555?style=flat-square&logo=googlemaps&logoColor=white" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=victorcesarmq&color=0A66C2&style=flat-square&label=Visitas" />
 </p>
 
 </div>
@@ -26,9 +23,11 @@
 
 ## 👤 Sobre mim
 
-Sou operador de videomonitoramento na SSP-MT em transição estruturada para a área de **dados**. Tenho contato diário com tecnologias como reconhecimento facial, OCR e leitura de placas — e estou construindo a base técnica para tornar isso minha vantagem competitiva como analista e, futuramente, engenheiro de dados.
+Estudante com foco em **dados** — construindo a base técnica para atuar como analista e, futuramente, engenheiro de dados.
 
-Meu plano é claro: **Fundação → Analista → Engenheiro de Dados**.  
+Tenho contato com tecnologias como reconhecimento facial, OCR e leitura de placas no contexto de segurança pública — e estou transformando esse conhecimento de domínio em vantagem competitiva na área de dados.
+
+Meu plano é direto: **Fundação → Analista → Engenheiro de Dados**.  
 Cada repositório aqui é um passo real nessa direção.
 
 > 📍 Cuiabá, MT · 🎓 Redes de Computadores — Uniasselvi (cursando) · 💡 Engenharia da Computação planejada para 2026
@@ -56,7 +55,7 @@ Cada repositório aqui é um passo real nessa direção.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -80,18 +79,16 @@ Cada repositório aqui é um passo real nessa direção.
 
 ## 📁 Projetos
 
-> 🚧 Em construção — os primeiros projetos com dados públicos (IBGE / SSP-MT) chegam em breve.  
+> 🚧 Em construção — primeiros projetos com dados públicos (IBGE / SSP-MT) chegam em breve.  
 > Acompanhe o progresso pelos commits.
 
 -----
 
-## 📊 GitHub Stats
+## 📊 Linguagens mais usadas
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=victorcesarmq&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcesarmq&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcesarmq&layout=compact&theme=default&hide_border=true&title_color=0A66C2&langs_count=5)](https://github.com/victorcesarmq)
 
 </div>
 
@@ -100,5 +97,3 @@ Cada repositório aqui é um passo real nessa direção.
 <div align="center">
   <sub>Atualizado em abril/2026 · Construindo em público — um commit por vez.</sub>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" />
