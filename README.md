@@ -62,7 +62,7 @@ Cada repositório aqui é um passo real nessa direção.
 </p>
 
 
-> ⚙️ Só listo tecnologias que consigo demonstrar em código. Sem badge vazio.
+> ⚙️ Só tecnologias que consigo demonstrar em código.
 
 -----
 
@@ -79,8 +79,8 @@ Cada repositório aqui é um passo real nessa direção.
 
 ## 📁 Projetos
 
-> 🚧 Em construção — primeiros projetos com dados públicos (IBGE / SSP-MT) chegam em breve.  
-> Acompanhe o progresso pelos commits.
+> 🚧 Em construção 
+> Acompanhe meu progresso pelos commits.
 
 -----
 
