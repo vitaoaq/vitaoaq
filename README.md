@@ -79,7 +79,7 @@ Cada repositório aqui é um passo real nessa direção.
 
 ## 📁 Projetos
 
-> 🚧 banco-multiconta.py
+> 🚧 projetos/desafio-banco-multiconta
 > 
 > Acompanhe meu progresso pelos commits.
 
