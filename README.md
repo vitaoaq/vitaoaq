@@ -89,7 +89,7 @@ Cada repositório aqui é um passo real nessa direção.
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-git-master-victorcesarmqs-projects.vercel.app/api/top-langs/?username=victorcesarmq&layout=compact&theme=default&hide_border=true&title_color=0A66C2&langs_count=5)](https://github.com/victorcesarmq)
+[![Top Langs](https://github-readme-stats-rho-mauve-52.vercel.app/api/top-langs/?username=victorcesarmq&layout=compact&theme=default&hide_border=true&title_color=0A66C2&langs_count=5&v=2)](https://github.com/victorcesarmq)
 
 </div>
 
